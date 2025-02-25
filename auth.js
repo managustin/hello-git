@@ -1,1 +1,1 @@
-console.log('Esta va a ser la autenticación');
+console.log('Esta va a ser la autenticación de la release v 1.01.')
